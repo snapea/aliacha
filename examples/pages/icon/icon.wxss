@@ -1,0 +1,124 @@
+@font-face {
+	font-family: 'icomoon';
+	src: url('data:font/woff;charset=utf-8;base64,d09GRgABAAAAAATIAA0AAAAACpgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAErAAAABoAAAAckClKK0dERUYAAASQAAAAHAAAAB4AJwApT1MvMgAAAZQAAAA/AAAAYA8TBjhjbWFwAAAB8AAAAFUAAAFeF1fZ/Wdhc3AAAASIAAAACAAAAAgAAAAQZ2x5ZgAAApAAAACBAAADnDMvg91oZWFkAAABMAAAACwAAAA2HfhmymhoZWEAAAFcAAAAIAAAACQIGANyaG10eAAAAdQAAAAbAAAAUgx/AABsb2NhAAACSAAAAEgAAABIDiwPJG1heHAAAAF8AAAAGAAAACAAJwAmbmFtZQAAAxQAAADcAAABm/pYTdhwb3N0AAAD8AAAAJYAAAFnpUtXunjaY2BkAAPp43vi4vltvjJws4D5d50mTkTQ/16zhDIfAHI5GJhAogA1Ggs9eNpjYGRgYD7w/wADAwsDA8P/1SyhDEARFMAGAHaYBJJ42mNgZGBgUGZQYWBmAAEmBjQAAAfbAE542mNgZv7AOIGBlYGBaSbTGQYGhn4IzfiawZiRkwEVMAqgCTA4MDC+lGU+8P8AgwMzEIPUIMkqMDACAHTZC1YAeNpjYYAAxlAIzQTELAxEgKtAHIpNAgA3YwGLAHjaY2BgYGaAYBkGRgYQiADyGMF8FgYbIM3FwMHABISMDAovZf///f8frErhJQOE/f+JOCtYBxcDDDCCzGNkA2JmqAATkGBiQAVAO1gYhjcAAEXTDTwAAAAAAAAAAAgACAAQABgAJgA0AEIAUABeAGwAdAB8AIoAmACmALQAwgDQAN4A7AD6ATABPgFOAVwBagF4AYYBjgGcAaoBuAHGAc542mNgZIABJgYGSyYGIvj/D7AwMB9gYGZgEFQUVGRh+APk/QGpGGRyw8UfVJdjZrjKNJVJm+k1AzeDOIMyULGRmamJmrISm6iImDEONiODkKSkEBBPQqOZpoIpLJiwG0P/vWYJBbqDhYFBGCgnGAqSZXr9ByQwKNLMQNoPAAfXnnMAAAB42nXOsWrCUBjF8X80WrQgnUrpdEenoOADdCp1cOkgHRvjJQT0XogRdO8jdOwz9GF8Ik/CtyZww+87N+cjwIx/Eton4YEn80Cem4fymzmVv8wjHrmYx8p/zVNeuamVpBMls25D64H8Yh7KC3Mqf5hHPPNtHiv/MU9Z8UdFQeSoEwlQFfEYo/CJp+TMgZxaoy/Ph1zo+74v32pPzUn3be5Ykukv2fr6VMXgltmiv/vezY1apbaEblOu2bNXtuOq97rrbqybqRRD40offJ03fu92V7cu4kb7Mu7l2z5DeNp9zTcOAkEUBNGpXWDx3nvEBebjN8ReBZAQIiHg9kjQpHTy1FG5wP3f1DkCFxC6kARJUkSkyZAlR54CRUqUqVClRp0GTVq06dClR58BQ0aMmaTOt9fjYtHzfvXefzzG3svfn8m5XMilXMm13MhYbuVO7uVBHuXpq6lv6pv6pr6pb+qb+qa+qW/qm/qmvqlvhzd2qEnPAAAAAQAB//8AD3jaY2BkYGDgAWIxIGZiYARCJSBmAfMYAAUUAFF42mNgYGBkAIKrS9Q5QPRdp4kTYTQAPi0GLAAA')
+		format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+.i-icon {
+	display: inline-block;
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: middle;
+	/* font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1; */
+}
+
+/* .i-icon-activity:before {
+	content: '\e6de';
+} */
+.icon-dislike-two:before {
+	content: '\e900';
+}
+.icon-dislike:before {
+	content: '\e901';
+}
+.icon-delete-two:before {
+	content: '\e902';
+}
+.icon-delete-one:before {
+	content: '\e903';
+}
+.icon-delete:before {
+	content: '\e904';
+}
+.icon-cuvette:before {
+	content: '\e905';
+}
+.icon-coupon:before {
+	content: '\e906';
+}
+.icon-consume:before {
+	content: '\e907';
+}
+.icon-config:before {
+	content: '\e908';
+}
+.icon-compass:before {
+	content: '\e909';
+}
+.icon-color-card:before {
+	content: '\e90a';
+}
+.icon-click-tap:before {
+	content: '\e90b';
+}
+.icon-clear:before {
+	content: '\e90c';
+}
+.icon-caution:before {
+	content: '\e90d';
+}
+.icon-carousel-video:before {
+	content: '\e90e';
+}
+.icon-camera:before {
+	content: '\e90f';
+}
+.icon-bug:before {
+	content: '\e910';
+}
+.icon-browser:before {
+	content: '\e911';
+}
+.icon-broadcast-radio:before {
+	content: '\e912';
+}
+.icon-broadcast:before {
+	content: '\e913';
+}
+.icon-box:before {
+	content: '\e914';
+}
+.icon-bookmark-one:before {
+	content: '\e915';
+}
+.icon-bookmark:before {
+	content: '\e916';
+}
+.icon-bluetooth:before {
+	content: '\e917';
+}
+.icon-bill:before {
+	content: '\e918';
+}
+.icon-balance-two:before {
+	content: '\e919';
+}
+.icon-api:before {
+	content: '\e91a';
+}
+.icon-airplay:before {
+	content: '\e91b';
+}
+.icon-aiming:before {
+	content: '\e91c';
+}
+.icon-accept-email:before {
+	content: '\e91d';
+}
