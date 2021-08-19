@@ -1,0 +1,6 @@
+/* components/message/index.wxss */
+.aa{}
+
+.bb{
+  color: red;
+}
