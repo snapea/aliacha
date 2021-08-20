@@ -1,0 +1,25 @@
+.ac-element {
+  position: relative;
+  padding: 12px 15px;
+  display: flex;
+  background: #fff;
+  align-items: center;
+  line-height: 1.4;
+  overflow: hidden;
+  flex: 1;
+  font-size: 26rpx;
+  justify-content: space-between;
+}
+
+.ac-element-icon {
+  margin-right: 5px;
+}
+
+.ac-element-icon:empty {
+  display: none;
+  display: inline-block;
+}
+
+.ac-cell-text {
+  line-height: 30rpx;
+}

@@ -1,0 +1,4 @@
+<view class="ac-class ac-panel">
+  <view class="ac-panel-title {{ hideTitleBottom ? '' : 'hide-panel-title-bottom' }}">{{ title }}</view>
+  <slot></slot>
+</view>

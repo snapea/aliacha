@@ -1,0 +1,8 @@
+<view bindtap="navigateTo" class="ac-class ac-element" style="background-color: {{ bgcolor }}; color: {{ color }}">
+  <view class="ac-element-content">
+    <view class="ac-cell-text">{{ title }}</view>
+  </view>
+  <view class="ac-element-icon">
+    <slot></slot>
+  </view>
+</view>

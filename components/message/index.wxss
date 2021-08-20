@@ -1,5 +1,6 @@
-/* components/message/index.wxss */
-.aa{}
+.aa{
+  font-size: 26rpx;
+}
 
 .bb{
   color: red;

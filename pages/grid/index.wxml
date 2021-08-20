@@ -1,0 +1,65 @@
+<ac-panel title="基本用法">
+  <ac-grid topBorder="{{ true }}">
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+  </ac-grid>
+</ac-panel>
+
+<ac-panel title="自定义行列数">
+  <ac-grid topBorder="{{ true }}">
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+  </ac-grid>
+  <ac-grid>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+    <ac-grid-item>
+      <view class="demo-display">
+        <ac-icon type="image" size="{{ 32 }}" color="#666"></ac-icon>
+        <view class="demo-title">标题</view>
+      </view>
+    </ac-grid-item>
+  </ac-grid>
+</ac-panel>

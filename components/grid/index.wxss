@@ -1,0 +1,7 @@
+.ac-grid {
+  overflow: hidden;
+}
+
+.border-top {
+  border-top: 1rpx solid #e9eaec;
+}

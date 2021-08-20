@@ -1,0 +1,3 @@
+<view class="ac=class ac-grid {{ topBorder ? 'border-top' : ''}}">
+  <slot></slot>
+</view>

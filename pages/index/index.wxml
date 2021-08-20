@@ -1,0 +1,7 @@
+<ac-panel title="基础组件">
+    <ac-element-group>
+      <ac-element title="Grid组件" isLink="{{ true }}" url="/pages/grid/index" color="rgba(0,0,0,0.9)" bgcolor="rgba(0,0,0,0.1)">
+        <ac-icon type="daochu" />
+      </ac-element>
+    </ac-element-group>
+</ac-panel>

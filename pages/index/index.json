@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "aliacha",
+  "usingComponents": {
+    "ac-icon": "../../components/icon/index",
+    "ac-grid": "../../components/grid/index",
+    "ac-grid-item": "../../components/grid-item/index",
+    "ac-panel": "../../components/panel/index",
+    "ac-element-group": "../../components/element-group/index",
+    "ac-element": "../../components/element/index"
+  }
+}

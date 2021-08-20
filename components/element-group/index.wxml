@@ -1,0 +1,3 @@
+<view class="ac-class ac-element-group">
+  <slot></slot>
+</view>

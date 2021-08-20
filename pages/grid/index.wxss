@@ -1,0 +1,11 @@
+.demo-display{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.demo-title{
+  margin-top: 10rpx;
+  font-size: 24rpx;
+  color: #333;
+}

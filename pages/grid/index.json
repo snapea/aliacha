@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "Grid",
+  "usingComponents": {
+    "ac-grid": "../../components/grid",
+    "ac-grid-item": "../../components/grid-item",
+    "ac-panel": "../../components/panel",
+    "ac-icon": "../../components/icon"
+  }
+}

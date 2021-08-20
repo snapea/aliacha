@@ -1,0 +1,10 @@
+.ac-grid-item {
+  position: relative;
+  float: left;
+  padding: 20px 10px;
+  width: 100% / 3;
+  box-sizing: border-box;
+
+  border-right: 1rpx solid #e9eaec;
+  border-bottom: 1rpx solid #e9eaec;
+}
